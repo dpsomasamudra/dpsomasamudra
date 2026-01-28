@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm **Prashantha D**, a **Bachelor of Engineering student in Information Science & Engineering** at **Sri Sairam College of Engineering, Bengaluru** (CGPA: **7.65/10**, 2022–2026). I’m a results-driven aspiring software engineer who enjoys building **scalable, secure, and high‑performance applications** using modern backend and cloud technologies.
+I'm **Prashantha D**, A **Bachelor of Engineering student in Information Science & Engineering** at **Sri Sairam College of Engineering, Bengaluru** (CGPA: **7.65/10**, 2022–2026). I’m a results-driven aspiring software engineer who enjoys building **scalable, secure, and high‑performance applications** using modern backend and cloud technologies.
 
 I’m particularly interested in **backend development, cloud deployment, data analytics, and system design**, and I enjoy applying emerging technologies to solve real‑world problems.
 
@@ -121,3 +121,4 @@ I’m particularly interested in **backend development, cloud deployment, data a
 I’m actively learning, building, and preparing for opportunities in **software engineering and backend development**. If you’d like to collaborate, discuss tech, or explore opportunities—feel free to connect!
 
 ⭐ *Thanks for visiting my profile!*
+
