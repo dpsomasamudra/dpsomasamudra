@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm **Prashantha D**, a **Bachelor of Engineering student in Information Science & Engineering** at **Sri Sairam College of Engineering, Bengaluru** (CGPA: **7.8/10**, 2022–2026).
+I'm Prashantha D, a recent Bachelor of Engineering graduate in Information Science & Engineering from Sri Sairam College of Engineering, Bengaluru, with a CGPA of 7.8/10 (2022–2026).
 
 I'm a passionate and results-driven aspiring software engineer who enjoys building **scalable, secure, and high-performance applications** using modern backend technologies, cloud platforms, data engineering pipelines, and AI-powered solutions.
 
